@@ -1,4 +1,4 @@
-# LC_KING Port Scanner
+Py_Port_Scanner
 
 Ferramenta desenvolvida em Python para análise de portas TCP e identificação de dispositivos conhecidos em uma rede local.
 
